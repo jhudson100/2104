@@ -9,5 +9,8 @@
  * @author jhudson
  */
 public class NewClass {
-    
+    //new class stuff
+    public void foo(){
+        System.out.println("BLAH!");
+    }
 }
